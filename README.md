@@ -8,6 +8,11 @@ Tailwind
 ## DEMO
 https://wonderful-williams-3e5869.netlify.app/
 
+![Screenshot_2](https://user-images.githubusercontent.com/57170301/88140996-64930880-cbb8-11ea-9284-9575ac234222.jpg)
+
+![image](https://user-images.githubusercontent.com/57170301/88141125-97d59780-cbb8-11ea-8e4d-2ba74df2b644.png)
+
+![image](https://user-images.githubusercontent.com/57170301/88141182-b76cc000-cbb8-11ea-9a18-a7c68b594b9c.png)
 
 
 ## Available Scripts
