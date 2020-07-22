@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Aplicación hecha en React usando como framework CSS tailwind, sobre un administrador de citas con las funciones de crear y eliminar citas.
+
+## Tecnologías usadad
+React
+Tailwind
+
+## DEMO
+https://wonderful-williams-3e5869.netlify.app/
+
+
 
 ## Available Scripts
 
