@@ -1,7 +1,7 @@
 
 Aplicación hecha en React usando como framework CSS tailwind, sobre un administrador de citas con las funciones de crear y eliminar citas.
 
-## Tecnologías usadad
+## Tecnologías usadas
 React
 Tailwind
 
